@@ -39,7 +39,7 @@ Semantic-resource links reflect availability at the time of assessment and may l
 
 ## Licence
 
-[Insert the selected dataset licence]
+See the LICENSE.md file for license rights and limitations
 
 ## Contact
 
