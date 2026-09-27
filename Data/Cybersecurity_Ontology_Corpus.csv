@@ -1,0 +1,229 @@
+﻿ID,Source,Focus,ECJRC_Primary_Domain,Semantic_Availability,Semantic_Resource_URL,Source_SLR
+Onto-1,zongxun_construction_2021,Cyber Threat Ontology,OIHDF,No,,bratsas_knowledge_2024
+Onto-2,zheng-qiu_semantic_2009,Web services security through general security ontology,SMG,No,,cherfi_how_2021
+Onto-3,zheng_learning_2018,Cyber attack detection,OIHDF,No,,rivadeneira_cybersecurity_2020
+Onto-4,zhao_ontology-based_2017,Threat Intelligent,OIHDF,No,,rivadeneira_cybersecurity_2020
+Onto-5,zamfira_developing_2018,Cyber Operation,OIHDF,No,,rivadeneira_cybersecurity_2020
+Onto-6,zamfira_applying_2019,Designing and evaluating cyber defence system,SMG,No,,rivadeneira_cybersecurity_2020
+Onto-7,gupta_social_2009,Human element of information security,HA,No,,blanco_basis_2011
+Onto-8,yau_adaptable_2014,Distributed trust management,TMAA,No,,cherfi_how_2021
+Onto-9,wang_ovm_2009,Ontology Vulnerability Management,SMG,No,,chaubey_comprehensive_2024
+Onto-10,wali_bootstrapping_2013,cyber security ontology using text book,SHSE,No,,rivadeneira_cybersecurity_2020
+Onto-11,vorobiev_security_2006,Attack ontology for web services,OIHDF,No,,cherfi_how_2021
+Onto-12,vorobiev_ontology-driven_2010,Software system components to detect cyber attack,SMG,No,,cherfi_how_2021
+Onto-13,hutchison_towards_2005,Computational trust model,TMAA,No,,rosa_security_2017
+Onto-14,vega-barbas_ontology-based_2019,Risk assessment -Spain,SMG,No,,rivadeneira_cybersecurity_2020
+Onto-15,van_vuuren_using_2014,policy framework for Africa,SMG,No,,rivadeneira_cybersecurity_2020
+Onto-16,vale_ontology_2019,Security patterns to improve software development,SMG,No,,cherfi_how_2021
+Onto-17,goos_modeling_2003,Intrusion detection evaluation,SMG,No,,blanco_basis_2011
+Onto-18,tsoumas_towards_2006,Security management of an arbitrary information system,SMG,No,,cherfi_how_2021
+Onto-19,tseng_ontology_2017,Linking hacking ontology to human motive,HA,No,,rivadeneira_cybersecurity_2020
+Onto-20,tan_dynamic_2004,Security of open service environment,SMG,No,,blanco_basis_2011
+Onto-21,takahashi_ontological_2010,Cybersecurity in cloud computing,SMG,No,,rivadeneira_cybersecurity_2020
+Onto-22,takahashi_reference_2015,Operational security management,OIHDF,No,,cherfi_how_2021
+Onto-23,takahashi_3-5_2011,CS Ontology for information sharing,SMG,No,,rivadeneira_cybersecurity_2020
+Onto-24,syed_uco_2016,Unified Cybersecurity On tology,SMG,Yes,UCO,hasan_systematic_2025
+Onto-25,syed_uco_2016,Common Weakness Enumeration,SHSE,Yes,CWE,hasan_systematic_2025
+Onto-26,syed_uco_2016,Common Vulnerabilities & Exposure,SHSE,Yes,CVE,hasan_systematic_2025
+Onto-27,ekelhart_cyber_2007,Common Vulnerability Score System,AAAC,Yes,CVSS,hasan_systematic_2025
+Onto-28,syed_cybersecurity_2020,Vulnerability management ontology,SMG,No,,rivadeneira_cybersecurity_2020
+Onto-29,strasburg_s-maids_2013,Semantic Model for Automated Tuning in Intrusion Detection Systems,OIHDF,No,,bratsas_knowledge_2024
+Onto-30,piessens_security_2015,Core and generic security ontology for requirements engineering,SHSE,No,,cherfi_how_2021
+Onto-31,simmonds_ontology_2004,Intrusion Detection,OIHDF,No,,rivadeneira_cybersecurity_2020
+Onto-32,shi_uncovering_2024,Common Platform Enumeration,SHSE,Yes,CPE,chaubey_comprehensive_2024
+Onto-33,goos_6_2003,Well known security ontology,SMG,No,,adach_security_2022
+Onto-34,scarpato_reachability_2019,Smart Farming,SMG,No,,rivadeneira_cybersecurity_2020
+Onto-35,salini_knowledge-oriented_2012,Security requirements of e-voting system,SHSE,No,,rosa_security_2017
+Onto-36,razzaq_ontology_2014,Model for Web application attack,SMG,No,,hasan_systematic_2025
+Onto-37,wang_malont_2020,Ontology for malware threat intelligence,OIHDF,Yes,MALOnto,bratsas_knowledge_2024
+Onto-38,raskin_ontology_2001,Theorical foundation and methodological tool,TF,No,,blanco_basis_2011
+Onto-39,ramanauskaite_security_2013,"Mapping security standards (ISO 27001, PCI-DSS, ISSA 5173 and NISTIR 7621)",SMG,No,,cherfi_how_2021
+Onto-40,petrenko_ontology_2017,Smart Grid,SMG,No,,rivadeneira_cybersecurity_2020
+Onto-41,pereira_interoperability_2022,Ontology used for IoT Development,SMG,No,,cherfi_how_2021
+Onto-42,pereira_stamp-based_2019,Safety and security analysis,SMG,No,,cherfi_how_2021
+Onto-43,patrick_tac-threat_2020,Threat Actor Context Ontology,OIHDF,Yes,TAC,chaubey_comprehensive_2024
+Onto-44,parkin_information_2009,Incorporating human behaviour,HA,No,,blanco_basis_2011
+Onto-45,onwubiko_cocoa_2018,Security operation centre,OIHDF,No,,rivadeneira_cybersecurity_2020
+Onto-46,oltramari_towards_2015,Trust as human factor,HA,No,,cherfi_how_2021
+Onto-47,ochoa_towards_2018,Analysing security requirements,SHSE,No,,rivadeneira_cybersecurity_2020
+Onto-48,obrst_developing_2012,Developing general cybersecurity ontology,SMG,No,,rivadeneira_cybersecurity_2020
+Onto-49,niyazova_ontology_2019,Extracting social network to build user profile,HA,No,,rivadeneira_cybersecurity_2020
+Onto-50,nguyen_ontologies_2011,Information systems ontology matching,SMG,No,,adach_security_2022
+Onto-51,mozzaquatro_ontology-based_2018,Cybersecurity Framework for IoT,SMG,No,,cherfi_how_2021
+Onto-52,mouratidis_modeling_2007,Security and trust within software development,TF,No,,blanco_basis_2011
+Onto-53,goos_ontology_2003,Agent based systems security,HA,No,,blanco_basis_2011
+Onto-54,mohsin_where_2016,IoT Security Ontology,SMG,No,,bratsas_knowledge_2024
+Onto-55,noauthor_mitre_2015,"Real world attack tactics, techniques",OIHDF,Yes,ATT&CK,hasan_systematic_2025
+Onto-56,cellary_ontology-based_2010,ISO 27001 security assessment,AAAC,No,,cherfi_how_2021
+Onto-57,merah2021,STIX-based ontology for CTI,OIHDF,No,,bratsas_knowledge_2024
+Onto-58,mellado_systematic_2010,Security requirement engineering in software development system,SHSE,No,,rosa_security_2017
+Onto-59,mcgibney_service-centric_2005,Introusion detection system,OIHDF,No,,blanco_basis_2011
+Onto-60,mayer_integrated_2019,Enterprise Architecture in Information Security Risk management,SMG,No,,cherfi_how_2021
+Onto-61,mavroeidis_cyber_2017,Cyber Threat Intelligent Model,OIHDF,No,,chaubey_comprehensive_2024
+Onto-62,bayro-corrochano_extended_2011,Security requirements for industrial case studies,SMG,No,,cherfi_how_2021
+Onto-63,maines_cyber_2015,security extension,SMG,No,,rivadeneira_cybersecurity_2020
+Onto-64,maathuis_computational_2018,Ontology for Cyber Operation,OIHDF,No,,rivadeneira_cybersecurity_2020
+Onto-65,maamar_towards_2006,Secure web services,SMG,No,,blanco_basis_2011
+Onto-66,lund_uml_2003,Security assessment,AAAC,No,,cherfi_how_2021
+Onto-67,li_ontology-based_2010,XSWRL ontology,NDS,No,,hasan_systematic_2025
+Onto-68,li_ontology-based_2020,Evaluating security classification,SHSE,No,,cherfi_how_2021
+Onto-69,li_applications_2009,Building information knowledge asset system to facilitate audit activities,AAAC,No,,blanco_basis_2011
+Onto-70,lee_building_2006,System assurance and accreditation,AAAC,No,,blanco_basis_2011
+Onto-71,kwon_visual_2007,Role based access control,IAM,No,,blanco_basis_2011
+Onto-72,kotenko_ontology_2013,Ontology of Security Metrics for incident management,SM,No,,rosa_security_2017
+Onto-73,cox_secco_2018,Automated retrieval and generation of security concept,SMG,No,,cherfi_how_2021
+Onto-74,koinig_contrology_2015,Cloud control ontology,SMG,No,,rosa_security_2017
+Onto-75,kim_ontology-driven_2019,Multilayer Ontologies,SMG,No,,bratsas_knowledge_2024
+Onto-76,kim_analytical_2016,Recommending security requirements based on Problem domain ontology,SMG,No,,cherfi_how_2021
+Onto-77,hutchison_security_2005,NRL security ontology to annnotate security aspect of electronic resources,SMG,No,,blanco_basis_2011
+Onto-78,khairkar_ontology_2013,Ontology for detection of web attacks,OIHDF,No,,rosa_security_2017
+Onto-79,herzog_ontology-based_2019,E-learning,EAT,No,,rivadeneira_cybersecurity_2020
+Onto-80,karyda_ontology_2006,Electronic government application,SHSE,No,,cherfi_how_2021
+Onto-81,kang_security_2013,Security ontology for software development,SHSE,No,,cherfi_how_2021
+Onto-82,kaloroumakis_d3fend-toward_2020,cybersecurity countermeasures,SHSE,Yes,D3FEND,chaubey_comprehensive_2024
+Onto-83,kagal_modeling_2007,Policy based framework to manage agent communication,SMG,No,,blanco_basis_2011
+Onto-84,jonsson_towards_2006,High level security reasoning and dependability to environmental influence,SMG,No,,cherfi_how_2021
+Onto-85,islam_ontology-driven_2019,Integrating security software,SMG,No,,rivadeneira_cybersecurity_2020
+Onto-86,iannacone_developing_2015,Situation and Threat Understanding by Correlating Contextual Observations Ontology,OIHDF,Yes,STUCCO,chaubey_comprehensive_2024
+Onto-87,huang_it2fs-based_2014,Malware in Taiwan,OIHDF,No,,rivadeneira_cybersecurity_2020
+Onto-88,herzog_ontology_2007,"Information security model for mapping threat, vulnerability and countermeasure",SMG,Yes,OIS,blanco_basis_2011
+Onto-89,gyrard_stac_2013,To support secure engineering and software design,SHSE,No,,cherfi_how_2021
+Onto-90,guan_ontology-based_2016,Application of Security Knowledge for software development,SMG,No,,cherfi_how_2021
+Onto-91,katsikas_cybersecurity_2022,CSO for risk information gathering,SMG,No,,bratsas_knowledge_2024
+Onto-92,geneiatakis_ontology_2007,VoIP security management,SHSE,No,,blanco_basis_2011
+Onto-93,geller_hybrid_2014,Hybrid approach to general cybersecurity ontology development,SMG,No,,rivadeneira_cybersecurity_2020
+Onto-94,gcaza_ontology_2015,culture environment,EAT,No,,rivadeneira_cybersecurity_2020
+Onto-95,garcia-crespo_securontology_2011,Web access control with logical declaration,IAM,No,,blanco_basis_2011
+Onto-96,gao_ontology-based_2013,Network Attack Model,OIHDF,No,,bratsas_knowledge_2024
+Onto-97,fontenele_knowledge_2016,Cyber Talent Discovery,HA,No,,rivadeneira_cybersecurity_2020
+Onto-98,filman_safebots_1996,"SafeBots, Software Security Controls",SMG,No,,cherfi_how_2021
+Onto-99,fernandez_security_2014,Cloud security evaluation,SMG,No,,cherfi_how_2021
+Onto-100,abramowicz_ontological_2009,Mapping security standards to security ontologies,SMG,No,,rosa_security_2017
+Onto-101,fenz_formalizing_2009,Information security knowledge formalisation,SMG,No,,rosa_security_2017
+Onto-102,feledi_challenges_2012,Interoperability of web web-based information security systems,SMG,No,,rosa_security_2017
+Onto-103,fani_ontology_2015,Physical security Incident response,OIHDF,Yes,SIO,cherfi_how_2021
+Onto-104,falk_ontology_2016,Ontology for Theat intelligence,OIHDF,No,,rivadeneira_cybersecurity_2020
+Onto-105,diaz_mopas_2011,Information security measurement system,SM,No,,rosa_security_2017
+Onto-106,elnagdy_understanding_2016,for financial industry,SMG,No,,rivadeneira_cybersecurity_2020
+Onto-107,hutchison_modeling_2009,Vulnerability management improvement,SMG,No,,cherfi_how_2021
+Onto-108,ekelhart_aurum_2009,Presents AURUM for information security risk management,SMG,No,,blanco_basis_2011
+Onto-109,ekelhart_security_2007,Risk management improvement,SMG,No,,cherfi_how_2021
+Onto-110,ekelhart_capec_2007,Common Attack Pattern Enummeration & Classification,OIHDF,Yes,CAPEC,chaubey_comprehensive_2024
+Onto-111,funabashi_employing_2005,Secure development of e-poll application,SHSE,No,,cherfi_how_2021
+Onto-112,doynikova_ontology_2019,Metrics for security management,SM,No,,rivadeneira_cybersecurity_2020
+Onto-113,dos_santos_moreira_ontologies_2008,Information security management and governance,SMG,No,,cherfi_how_2021
+Onto-114,donner_toward_2003,Theorical foundation of information security,TF,No,,blanco_basis_2011
+Onto-115,dobson_domain-independent_2007,Non-functional requirements ontology,AAAC,No,,blanco_basis_2011
+Onto-116,dieguez_optimizing_2012,Compliance management,AAAC,No,,rosa_security_2017
+Onto-117,goos_security_2003,Security annotation of web services,SMG,No,,blanco_basis_2011
+Onto-118,latifi_towards_2018,Ontology for security assessment,AAAC,Yes,SecAOnto,cherfi_how_2021
+Onto-119,dagostini_ontology_2012,Verification of security,AAAC,No,,rosa_security_2017
+Onto-120,chun_developing_2014,Pedagogical cybersecurity ontology,HA,No,,rivadeneira_cybersecurity_2020
+Onto-121,chukkapalli_smart-farming_2020,Access control,IAM,No,,rivadeneira_cybersecurity_2020
+Onto-122,chowdhury_security_2014,Proposes Secure UML model to improve risk assessment.,SMG,No,,cherfi_how_2021
+Onto-123,choi_ontology-based_2014,Power IoT-Cloud security ontology,IAM,No,,hasan_systematic_2025
+Onto-124,choi_ontology-based_2019,Ontology-based access control model,IAM,No,,hasan_systematic_2025
+Onto-125,cherdantseva_reference_2013,Proposes Reference model of information security and assurance.,AAAC,No,,cherfi_how_2021
+Onto-126,chen_research_2018,Proposes a network security knowledge map,NDS,No,,cherfi_how_2021
+Onto-127,casola_first_2019,Two layered ontology for Information Security Management System,SMG,No,,cherfi_how_2021
+Onto-128,casey_leveraging_2015,Digital Forensic Analysis eXpression,OIHDF,No,,bratsas_knowledge_2024
+Onto-129,boualem_maintenance_2017,Interaction between industrial maintenance and safety accordance with ISO27000,SMG,No,,cherfi_how_2021
+Onto-130,blanco_vulnerapedia_2012,Focus on web application security domain.,SMG,No,,cherfi_how_2021
+Onto-131,birkholz_io_2012,Application of asset ontology for risk assessment,SMG,No,,rosa_security_2017
+Onto-132,bialas_common_2011,IT Security Development Ontology based on orange book,SHSE,No,,rosa_security_2017
+Onto-133,bergner_cybersecurity_2017,Cyber ontology for critical infrastructure,SMG,No,,rivadeneira_cybersecurity_2020
+Onto-134,ben_salem_enabling_2015,ICAS cyber security,SMG,No,,rivadeneira_cybersecurity_2020
+Onto-135,beji_security_2009,Mobile application security,SMG,No,,blanco_basis_2011
+Onto-136,bataityte_ontological_2020,"Vulnerability analysis within finance, commercial and business domains",SMG,No,,rivadeneira_cybersecurity_2020
+Onto-137,basile_ontology-based_2010,Network security,NDS,No,,blanco_basis_2011
+Onto-138,barnum_standardizing_2014,Structured Threat Information Expression,OIHDF,Yes,STIX,chaubey_comprehensive_2024
+Onto-139,baesso_moreira_extending_2018,Incident Handeling ontology,OIHDF,No,,rivadeneira_cybersecurity_2020
+Onto-140,azevedo_modeling_2015,Unified Foundational Ontology,SMG,No,,hasan_systematic_2025
+Onto-141,avizienis_basic_2004,To improve interoperability by development of general concepts.,SMG,No,,cherfi_how_2021
+Onto-142,arogundade_towards_2012,leverages mis-use cases to improve knowledge sharing and security.,SMG,No,,cherfi_how_2021
+Onto-143,an_wang_ontological_2010,Offers ontological framework for vulnerability management,SMG,No,,cherfi_how_2021
+Onto-144,panetto_towards_2019,Introduces Ontology of Trust,TMAA,No,,cherfi_how_2021
+Onto-145,albalushi_ontology-based_2017,behavioural based Cyber attack detection,OIHDF,No,,rivadeneira_cybersecurity_2020
+Onto-146,muthukkumarasamy_design_2023,"Weakness, Attack, Vulnerability, Engage, D3fend",SHSE,No,,chaubey_comprehensive_2024
+Onto-147,agrawal_v_towards_2016,Risk assessment based on ISO 27001,SMG,No,,adach_security_2022
+Onto-148,talib_security_2012,Multi agent system architecture for cloud data storage,SMG,No,,rosa_security_2017
+Onto-149,khalil2025cyberroad,CyberROAD,SMG,No,,gacitua_toward_2026
+Onto-150,mozzaquatro_ontology-based_2018,IoTSec Ontology,SMG,No,,gacitua_toward_2026
+Onto-151,meriah2025comprehensive,Multi-Dimensional Information Security,TF,Yes,MDISOnt,gacitua_toward_2026
+Onto-152,castiglione2025guiding,Compliance assessment,AAAC,Yes,NIS2Onto,gacitua_toward_2026
+Onto-153,oliveira2023phishing,Phishing Attack Onto,HA,Yes,PHATO/PAPO,gacitua_toward_2026
+Onto-154,bella2023compliance,Compliance assessment,AAAC,Yes,NIS2Onto1,gacitua_toward_2026
+Onto-155,kurylets2023ontosecrpa,Security Ontology OntoSecRPA for Robotic Process Automation Domain,SHSE,Yes,OntoSecRPA,gacitua_toward_2026
+Onto-156,iqbal2020corda,Post-Trade Matching and Confirmation,NDS,Yes,CordaSecOnt,gacitua_toward_2026
+Onto-157,hosseinzadeh2016semantic,RBAC SecurityOntology,IAM,Yes,SecurityOntology,gacitua_toward_2026
+Onto-158,mbaye2025proposal,IT Architecture Resilience Ontology (unnamed proposal),SHSE,No,,gacitua_toward_2026
+Onto-159,teng2025ontocps4pms,OntoCPS4PMS,NDS,No,,gacitua_toward_2026
+Onto-160,almoabady2025digital,Cyber Situational Awareness Ontology (unnamed),OIHDF,No,,gacitua_toward_2026
+Onto-161,castiglione2025seconto,Security Ontology,SMG,No,,gacitua_toward_2026
+Onto-162,oliveira2024modeling,ArchiMate Security Ontology/Model,SHSE,No,,gacitua_toward_2026
+Onto-163,bughio2024novel,IoMT Remote Patient Monitoring Cybersecurity Ontology,NDS,No,,gacitua_toward_2026
+Onto-164,iqbal2024blockchain,Blockchain-based Security Risk Management Ontology/Framework,SMG,No,,gacitua_toward_2026
+Onto-165,tummazeh2023intrusion,Intrusion Detection System (IDS) Ontology,OIHDF,No,,gacitua_toward_2026
+Onto-166,chen2023management,Critical Infrastructure Protection Management Ontology / Knowledge Graph,SMG,No,,gacitua_toward_2026
+Onto-167,tefek2023smart,Smart Grid Ontology,NDS,No,,gacitua_toward_2026
+Onto-168,engelberg2023driven,Process-Aware Risk Propagation Ontology,SMG,No,,gacitua_toward_2026
+Onto-169,pandey2023graphs,OCSF (Ontology Graphs in Cyber Security Framework),TF,No,,gacitua_toward_2026
+Onto-170,sanchezzas2023real,Real-time Risk Management & Cyber-Situational Awareness Ontology,SMG,No,,gacitua_toward_2026
+Onto-171,varvarigou2023solution,NFV Safety/Cybersecurity Interdependency Ontology,NDS,No,,gacitua_toward_2026
+Onto-172,wang2023centric,Network Security Situation Awareness Ontology,NDS,No,,gacitua_toward_2026
+Onto-173,maunero2023assessment,Cybersecurity Risk Assessment Ontology,SMG,No,,gacitua_toward_2026
+Onto-174,blanco2023onto,Onto-CARMEN,SHSE,No,,gacitua_toward_2026
+Onto-175,shaked2022ontorisk,OnToRisk,SMG,No,,gacitua_toward_2026
+Onto-176,ramanauskaite2022structure,Security Ontology Structure,SMG,No,,gacitua_toward_2026
+Onto-177,alanen2022hybrid,Hybrid Safety/Security/Dependability Risk Ontology,SMG,No,,gacitua_toward_2026
+Onto-178,hannou2022semantic,Healthcare Cyber-Physical Cascading Effects Semantic Model/Ontology,NDS,No,,gacitua_toward_2026
+Onto-179,steinmann2022requirements,Secure Development Ontology,SHSE,No,,gacitua_toward_2026
+Onto-180,babayeva2022cyber,Cyber Defence Exercises Ontology,EAT,No,,gacitua_toward_2026
+Onto-181,merah_proactive_2021,Proactive Cyber Threat Intelligence Ontology,OIHDF,No,,gacitua_toward_2026
+Onto-182,mandal2021enterprise,Enterprise Information Security Policy Ontology,SMG,No,,gacitua_toward_2026
+Onto-183,meriah2021automatic,Generic Information Security Ontology,TF,No,,gacitua_toward_2026
+Onto-184,wang2021social,Social Engineering Domain Ontology,HA,No,,gacitua_toward_2026
+Onto-185,bandi2021driven,IoT Hardware Vulnerability & Impact Ontology,SHSE,No,,gacitua_toward_2026
+Onto-186,yeboahofori2021cyberattack,Cyberattack Ontology,SMG,No,,gacitua_toward_2026
+Onto-187,li2021intelligent,Vulnerability Knowledge Graph Ontology,SHSE,No,,gacitua_toward_2026
+Onto-188,pastuszuk2021dynamic,Cybersecurity Ontology for Dynamic Analysis of IT Systems,SMG,No,,gacitua_toward_2026
+Onto-189,wang2021heterogeneous,Comprehensive Security Knowledge Integration Ontology / Knowledge Graph,TF,No,,gacitua_toward_2026
+Onto-190,wen2021scenario,Cybersecurity Exercise Scenario Ontology,EAT,No,,gacitua_toward_2026
+Onto-191,kalinin2020cyber,Cyber Threat Response Ontology,OIHDF,No,,gacitua_toward_2026
+Onto-192,chu2020automation,Penetration Testing Ontology,AAAC,No,,gacitua_toward_2026
+Onto-193,canito2020promote,Critical-Infrastructure Cyber-Physical Interoperability Ontology,NDS,No,,gacitua_toward_2026
+Onto-194,li2020cskb,CSKB,TF,No,,gacitua_toward_2026
+Onto-195,georgescu2020natural,Cybersecurity Document Analysis Semantic/Ontology Model,TF,No,,gacitua_toward_2026
+Onto-196,aouad2020defender,Defender-centric Conceptual Cyber Exposure Ontology,SMG,No,,gacitua_toward_2026
+Onto-197,wang2019automatically,IoT Security Ontology (used for E-learning),EAT,No,,gacitua_toward_2026
+Onto-198,faria2019multi,Information Security Incident Domain Ontology,OIHDF,No,,gacitua_toward_2026
+Onto-199,li2019improve,ABAC Access Policy Administration Ontology,IAM,No,,gacitua_toward_2026
+Onto-200,hooi2019tagraph,TAGraph,OIHDF,No,,gacitua_toward_2026
+Onto-201,sikos2019owl,Cyber-Knowledge OWL Ontology / conceptual model,TF,No,,gacitua_toward_2026
+Onto-202,geko2018capturing,GDPR–Information Security Ontology,LA,No,,gacitua_toward_2026
+Onto-203,jia2018practical,Cybersecurity Knowledge Graph Ontology,TF,No,,gacitua_toward_2026
+Onto-204,syed2018vulnerability,Cybersecurity Vulnerability Management Ontology,SHSE,No,,gacitua_toward_2026
+Onto-205,ghidini_sepses_2019,Cybersecurity Ontology for Critical Infrastructures,NDS,No,,gacitua_toward_2026
+Onto-206,xu2017situation,IoT Network Security Situation Awareness Ontology,NDS,No,,gacitua_toward_2026
+Onto-207,alqahtani2017automate,Software Artifact Tagging Ontology,SHSE,No,,gacitua_toward_2026
+Onto-208,lavrova2017model,IoT Applications Information Security Ontology,NDS,No,,gacitua_toward_2026
+Onto-209,babiceanu2017resilience,SDN Manufacturing Cybersecurity & Resilience Ontology/Model,NDS,No,,gacitua_toward_2026
+Onto-210,huang_comat_2026,Ontology supporting CTI analysis,OIHDF,No,,gacitua_toward_2026
+Onto-211,alqahtani2016tracing,Software Vulnerability Semantic-Web Ontology,SHSE,No,,gacitua_toward_2026
+Onto-212,adan2016knowledge,Government Software Security Requirements Knowledge Base/Ontology,SHSE,No,,gacitua_toward_2026
+Onto-213,mattos2015management,Information Security Management Ontology,SMG,No,,gacitua_toward_2026
+Onto-214,solic2015systems,Information Systems Security-Level Assessment Ontology,SM,No,,gacitua_toward_2026
+Onto-215,sarala2015intelligence,Risk Intelligence Ontology,SMG,No,,gacitua_toward_2026
+Onto-216,mouton2014model,Social Engineering Domain Ontology,HA,No,,gacitua_toward_2026
+Onto-217,mouton2014social,Social Engineering Attack Framework/Ontology,HA,No,,gacitua_toward_2026
+Onto-218,ren2013model,IoT Information Security Ontology Model,NDS,No,,gacitua_toward_2026
+Onto-219,garg2013specification,Intrusion Detection & Prevention Ontology,OIHDF,No,,gacitua_toward_2026
+Onto-220,kiesling2012multi,Security Control Selection Ontology/Decision-Support Model,SMG,No,,gacitua_toward_2026
+Onto-221,kotenko2012siem,SIEM Data Repository Ontology,OIHDF,No,,gacitua_toward_2026
+Onto-222,vasilevskaya2012asset,Security Asset Elicitation Ontology/Model,SHSE,No,,gacitua_toward_2026
+Onto-223,pereira2012management,Information Security Management Ontology,SMG,No,,gacitua_toward_2026
+Onto-224,sikos_cybersecurity_2023,Incident Response and Threat Intelligence,OIHDF,Yes,IRTI,gacitua_toward_2026
+Onto-225,Costa2014InsiderThreatOntology,Insider Threat Indicators Ontology,OIHDF,Yes,ITIO,gacitua_toward_2026
+Onto-226,ormrod2015system,Cyber Effects Simulation Ontology,NDS,Yes,CESO,gacitua_toward_2026
+Onto-227,Sikos2018NetworkKnowledge,IP Networks Topology and Communications,NDS,Yes,IPNet,gacitua_toward_2026
+Onto-228,merono_penuela_noria-o_2024,Anomaly Detection and Incident Management,OIHDF,Yes,NORIA-O,gacitua_toward_2026
