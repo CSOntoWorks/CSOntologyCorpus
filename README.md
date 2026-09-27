@@ -11,14 +11,14 @@ The dataset consolidates cybersecurity ontologies identified through nine system
 │   Cybersecurity Ontology Corpus.pdf
 
 ├── Documentation/
-│   Data_Dictionary.md
+│   README.md
 
 
 - [`Data/Cybersecurity_Ontology_Corpus.xlsx`] contains the ontology corpus.
 - [`Data/Cybersecurity_Ontology_Corpus.csv`] contains the ontology corpus.
 - [`Data/Cybersecurity Ontology Corpus.pdf`] contains the ontology corpus.
 
-- [`Documentation/Data_Dictionary.md`] defines the dataset fields, permitted values, and missing-value conventions.
+- [`Documentation/README.md`] defines the dataset fields, permitted values, and missing-value conventions.
 
 
 ## Citation
